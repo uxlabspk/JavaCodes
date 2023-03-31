@@ -1,2 +1,2 @@
 # JavaCodes
-java practice codes
+java practice codes repository.
